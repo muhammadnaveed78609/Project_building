@@ -4,8 +4,7 @@ coverage
 coverage.json
 typechain
 typechain-types
-!.gitignore
+.gitignore
 # Hardhat files
 cache
 artifacts
-
